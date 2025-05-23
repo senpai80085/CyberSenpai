@@ -17,11 +17,11 @@ logging.basicConfig(
 
 ABOUT_ME = """
 Ethical Hacking Bot by Senpai
-GitHub: https://github.com/yourgithub
-Website: https://yourwebsite.com
+GitHub: https://github.com/senpai80085
+Website:
 """
 
-JOIN_CHANNEL_URL = "https://t.me/yourchannel"
+JOIN_CHANNEL_URL = "https://t.me/your"
 
 def main_menu():
     keyboard = [
